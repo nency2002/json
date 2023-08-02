@@ -1,0 +1,25 @@
+{
+  "product": [
+    {
+      "img": "https://t3.ftcdn.net/jpg/05/55/82/46/360_F_555824600_OvpqblejjhjExcDDulsWkY3RxDrAr2hF.jpg",
+      "title": "women",
+      "cate": "women",
+      "price": "100",
+      "id": 1
+    },
+    {
+      "img": "https://images.meesho.com/images/products/195388721/utu24_400.webp",
+      "title": "froke",
+      "cate": "women",
+      "price": "1200",
+      "id": 2
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/green-park-view_1417-1492.jpg?w=2000",
+      "title": "clothes",
+      "cate": "women",
+      "price": "1200",
+      "id": 3
+    }
+  ]
+}
